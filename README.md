@@ -2,7 +2,7 @@
 MAST(Myo Armband Sign-Language Translator): This project implements the classfication of 10 medical sign language gestures using an enhanced version of Dynamic Random Forest. The data of the gesture is represented by EMG signals gathered by the MYO Sensor.
 
 # Paper: MAST (Myo Armband Sign-Language Translator for Human Hand Activity Classification)
-You can find the paper here: [Paper](https://ieeexplore.ieee.org/abstract/document/9289153))
+You can find the paper here: [Paper](https://ieeexplore.ieee.org/abstract/document/9289153)
 
 ## "docs" Directory:
 This directory includes the survey, proposal and the final results of this project.
